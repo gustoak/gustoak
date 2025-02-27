@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Carvalho</h1>
-<h3 align="center">🚀 Passionate about Technology | Cloud Computing Enthusiast ☁️ Bridging the gap between traditional networking and the cloud. Passionate about innovation, automation, and scalable solutions.</h3>
+<h3 align="center">🚀 Passionate about Technology | Cloud Computing Enthusiast ☁️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustoak&label=Profile%20views&color=0e75b6&style=flat" alt="gustoak" /> </p>
 
